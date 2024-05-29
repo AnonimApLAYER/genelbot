@@ -1,0 +1,7 @@
+{
+    "prefix": "/",
+    "token": "KENDİ BOT TOKENİNİN YAZ",
+    "clientId": "KENDİ CLİENT IDNI YAZ (BOTUN YANİ)",
+    "clientSecret": "YOUR_CLIENT_SECRET",
+    "guildId": "YOUR_GUILD_ID"
+}
